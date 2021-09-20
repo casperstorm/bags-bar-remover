@@ -1,0 +1,7 @@
+## Interface: 90100
+## Title: Bags Bar Remover
+## Author: Casper Rogild Storm
+## Version: v1.0.0
+## Notes: Simply removes Bags bar
+
+BagsBarRemover.xml
